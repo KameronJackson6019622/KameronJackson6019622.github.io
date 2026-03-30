@@ -66,7 +66,11 @@ physikz.updatePosition(circles[3])
 physikz.updatePosition(circles[4])
             
             // TODO 5 : Call game.checkCirclePosition() on your circles
-           
+           game.checkCirclePosition(Circles[0])
+           game.checkCirclePosition(Circles[1])
+           game.checkCirclePosition(Circles[2])
+           game.checkCirclePosition(Circles[3])
+           game.checkCirclePosition(Circles[4])
 
             // TODO 8 / TODO 9 : Iterate over the array
            
